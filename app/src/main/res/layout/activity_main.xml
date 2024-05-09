@@ -9,6 +9,7 @@
     tools:context=".MainActivity">
 
     <RelativeLayout
+        android:id="@+id/ToolbarRL"
         android:layout_width="match_parent"
         android:layout_height="@dimen/m_toolbar_height">
 
@@ -24,6 +25,7 @@
 
     <FrameLayout
         android:id="@+id/FragmentL1"
+        android:layout_below="@id/ToolbarRL"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@id/View1"/>
@@ -33,10 +35,10 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="#ccc"
-        android:layout_above="@id/ButtonNV"/>
+        android:layout_above="@id/BottomNV"/>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
-        android:id="@+id/ButtonNV"
+        android:id="@+id/BottomNV"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
