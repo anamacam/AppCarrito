@@ -11,8 +11,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string name="Ingresar_email">Ingese con su correo</string>
-    <string name="Ingresar_google">Ingese con una cuenta de google</string>
+    <string name="Ingresar_email">Ingrese con su correo</string>
+    <string name="Ingresar_google">Ingrese con una cuenta de google</string>
 
     <string name="Txt_login">Usuario registrado</string>
     <string name="Et_email">Correo</string>
@@ -20,6 +20,10 @@
     <string name="Btn_ingresar">Ingesar</string>
     <string name="Txt_no_registro">¿No estas registrado?</string>
     <string name="Txt_Registrate">REGISTRARME</string>
+
+    <string name="Txt_registro">Registro de usuario</string>
+    <string name="Etr_r_password">Repetir contraseña</string>
+    <string name="Btn_registrar">Registrar</string>
 
 
 
