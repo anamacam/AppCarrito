@@ -14,7 +14,12 @@
     <string name="Ingresar_email">Ingese con su correo</string>
     <string name="Ingresar_google">Ingese con una cuenta de google</string>
 
-
+    <string name="Txt_login">Usuario registrado</string>
+    <string name="Et_email">Correo</string>
+    <string name="Et_password">Contraseña</string>
+    <string name="Btn_ingresar">Ingesar</string>
+    <string name="Txt_no_registro">¿No estas registrado?</string>
+    <string name="Txt_Registrate">REGISTRARME</string>
 
 
 
